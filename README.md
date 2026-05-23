@@ -15,22 +15,22 @@
 
 ## 🛠️ Technical Skills
 
-**Languages & Frameworks**
+* **Languages & Frameworks**
 Java, Kotlin, Python, JavaScript/TypeScript, Spring Boot, Node.js, React
 
-**Cloud & DevOps**
+* **Cloud & DevOps**
 AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions
 
-**Architecture & Engineering**
+* **Architecture & Engineering**
 Microservices, Distributed Systems, Event-Driven Architecture, API Design, Domain-Driven Design (DDD)
 
-**Data & Messaging**
+* **Data & Messaging**
 PostgreSQL, MongoDB, Redis, Kafka
 
-**Fintech & Banking**
+* **Fintech & Banking**
 Digital Banking Platforms, Payments, Open Banking APIs, Identity & Access Management, Secure System Design
 
-**AI & Emerging Tech**
+* **AI & Emerging Tech**
 LLMs, AI-powered Automation, Intelligent Workflows, AI-assisted Developer Tools, Conversational AI
 
 <!--
