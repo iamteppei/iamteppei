@@ -12,6 +12,27 @@
 
 * ⚡ Fun fact: I’m especially interested in the future of “invisible banking” — where financial services become embedded naturally into everyday user experiences without friction.
 
+
+## 🛠️ Technical Skills
+
+**Languages & Frameworks**
+Java, Kotlin, Python, JavaScript/TypeScript, Spring Boot, Node.js, React
+
+**Cloud & DevOps**
+AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, GitHub Actions
+
+**Architecture & Engineering**
+Microservices, Distributed Systems, Event-Driven Architecture, API Design, Domain-Driven Design (DDD)
+
+**Data & Messaging**
+PostgreSQL, MongoDB, Redis, Kafka
+
+**Fintech & Banking**
+Digital Banking Platforms, Payments, Open Banking APIs, Identity & Access Management, Secure System Design
+
+**AI & Emerging Tech**
+LLMs, AI-powered Automation, Intelligent Workflows, AI-assisted Developer Tools, Conversational AI
+
 <!--
 **iamteppei/iamteppei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
