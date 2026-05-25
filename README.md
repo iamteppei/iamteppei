@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Tam Nguyen
 
-* 🔭 I’m currently working on building scalable software solutions and exploring how AI can transform digital banking experiences.
+* I’m currently working on building scalable software solutions and exploring how AI can transform digital banking experiences.
 
-* 🌱 I’m currently learning more about applied AI in fintech, intelligent automation, agentic systems, and personalized financial experiences.
+* I’m currently learning more about applied AI in fintech, intelligent automation, agentic systems, and personalized financial experiences.
 
-* 👯 I’m looking to collaborate on fintech, banking, AI-driven products, platform engineering, and digital transformation initiatives.
+* I’m looking to collaborate on fintech, banking, AI-driven products, platform engineering, and digital transformation initiatives.
 
 ## 🛠️ Technical Skills
 
