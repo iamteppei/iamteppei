@@ -6,6 +6,8 @@
 
 * I’m looking to collaborate on fintech, banking, AI-driven products, platform engineering, and digital transformation initiatives.
 
+* I started sharing my thoughts and writing here: [iamteppei.github.io](https://iamteppei.github.io/)
+
 ## 🛠️ Technical Skills
 
 * **Languages & Frameworks**:Java, Kotlin, Python, JavaScript/TypeScript, Spring Boot, Node.js, React
